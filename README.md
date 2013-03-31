@@ -37,5 +37,7 @@
 1.3 Security
 
   • The security algorithm used for storing passwords in MD5 (Message Digest Algorithm).
+  
   • The php session is used to store user’s email and his authorization rights.
+  
   • If the user accesses an unauthorized page, he is redirected to the unauthorized.php
